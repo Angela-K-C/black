@@ -19,6 +19,7 @@ function save() {
     saveEl.textContent += countStr
     countEl.textContent = 0
     count = 0
+    // added a new comment
 }
 save()
 
